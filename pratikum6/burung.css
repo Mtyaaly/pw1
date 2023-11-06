@@ -1,0 +1,55 @@
+#header{
+    background-color: gold;
+}
+body{
+    background-color: rgb(237, 248, 134);
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(10, 68, 68);
+}
+p{
+    text-align: justify;
+    width: fit-content;
+}
+
+.center{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto{
+    background-color: black;
+}
+
+.foto img src {
+    width: 23%;
+}
+
+.cod{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cod p{
+    background-color: aqua;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    margin: 0 auto;
+}
+
+.promo{
+    color: red;
+    text-align: center;
+}
+
+
+
